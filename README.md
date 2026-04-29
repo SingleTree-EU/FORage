@@ -119,10 +119,11 @@ If you use this dataset, code, or build upon this work, please cite:
   journal={Remote Sensing of Environment},
   year={2026}
 }
+```
 
 ---
 
 ## 📚 Funding
-![Funding](singletree.png)
+![Funding_source](singletree.png)
 
 Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not  mnecessarily reflect those of the European Union or CBE JU. Neither the European Union nor the CBE JU can be held responsible for them.  Grant agreement N. º 101157488.
