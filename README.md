@@ -123,6 +123,6 @@ If you use this dataset, code, or build upon this work, please cite:
 ---
 
 ## 📚 Funding
-<img width="2444" height="438" alt="singletree" src="https://github.com/user-attachments/assets/0aaf9aae-25d4-4097-a606-de6034f9e465" />
+![Funding](singletree.png)
 
 Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not  mnecessarily reflect those of the European Union or CBE JU. Neither the European Union nor the CBE JU can be held responsible for them.  Grant agreement N. º 101157488.
