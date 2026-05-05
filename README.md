@@ -1,9 +1,8 @@
 # 🌲 FOR-age: Individual Tree Age Estimation with 3D Deep Learning
 
-This repository accompanies the paper:
+This repository accompanies the **Remote Sensing of Environment** [Puliti et al. (2026) paper](https://www.sciencedirect.com/science/article/pii/S0034425726002324):
 
 **“FOR-age: benchmarking individual tree age estimation using 3D deep learning on dense laser scanning data”**  
-*Accepted in* **Remote Sensing of Environment**
 
 ---
 
