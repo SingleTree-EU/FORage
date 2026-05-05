@@ -4,6 +4,8 @@ This repository accompanies the **Remote Sensing of Environment** [Puliti et al.
 
 **“FOR-age: benchmarking individual tree age estimation using 3D deep learning on dense laser scanning data”**  
 
+🚧 It is a work in progress, we are working hard to publish the final code and model weights :)
+
 ---
 
 ## 📊 Overview
@@ -68,14 +70,7 @@ Training data is publicly available on Zenodo:
 
 ## 🧪 Evaluation / Benchmark
 
-Evaluation on the **withheld test set** is performed through the official Codabench competition:
-
-👉 https://www.codabench.org/profiles/user/stefanopuliti/
-
-This ensures:
-- Fair comparison  
-- Standardized benchmarking  
-- Reproducibility of reported results  
+Evaluation on the **withheld test set** is performed through the official 👉 [FOR-age Codabench competition](https://www.codabench.org/competitions/16014/):
 
 ---
 
