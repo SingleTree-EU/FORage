@@ -107,11 +107,16 @@ To reproduce the main results:
 If you use this dataset, code, or build upon this work, please cite:
 
 ```bibtex
-@article{puliti2026forage,
-  title={FOR-age: benchmarking individual tree age estimation using 3D deep learning on dense laser scanning data},
-  author={Puliti, Stefano and Xiang, Binbin and Wielgosz, Maciej and Handegard, Eivind and Cattaneo, Nicolas and Vergarechea, Marta and Gobakken, Terje and Hyyppä, Juha and Næsset, Erik and Vastaranta, Mikko and Yrttimaa, Tuomas and Astrup, Rasmus},
-  journal={Remote Sensing of Environment},
-  year={2026}
+@article{PULITI2026115462,
+title = {FOR-age: Benchmarking individual tree age estimation using 3D deep learning on dense laser scanning data},
+journal = {Remote Sensing of Environment},
+volume = {342},
+pages = {115462},
+year = {2026},
+issn = {0034-4257},
+doi = {https://doi.org/10.1016/j.rse.2026.115462},
+url = {https://www.sciencedirect.com/science/article/pii/S0034425726002324},
+author = {Stefano Puliti and Binbin Xiang and Maciej Wielgosz and Eivind Handegard and Nicolas Cattaneo and Marta Vergarechea and Terje Gobakken and Juha Hyyppä and Erik Næsset and Mikko Vastaranta and Tuomas Yrttimaa and Rasmus Astrup}
 }
 ```
 
